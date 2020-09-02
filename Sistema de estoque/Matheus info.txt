@@ -1,0 +1,22 @@
+https://www.ibm.com/training/badges
+https://www.youracclaim.com/organizations/ibm/badges
+https://canaltech.com.br/inovacao/open-ptech-ibm-lanca-plataforma-de-educacao-digital-gratuita-no-brasil-163512/
+
+
+Atividades próximas 2 semanas.
+--
+Curso Java:
+		Curso introdutório. 
+		JAVA com Rest API, Spring Boot.
+		JAVA JPA.
+		JAVA WEB.
+
+Projeto:
+	-Realizar a documentação de requisitos.
+		-Levantar requisitos do sistema.
+		-Criar caso de uso.
+		-Levantar requisitos funcionais e não funcionais.
+		-Levantar base de dados.
+	
+	
+
